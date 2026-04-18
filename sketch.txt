@@ -23,6 +23,7 @@ to include exceptional access to user communications.
 
 ### Historical cases ###
 
+> Podchasov c. Russia
 > Apple vs. FBI
 > Clipper Chip (attempt at key escrow)
 
@@ -45,3 +46,8 @@ to include exceptional access to user communications.
 > split-key systems (multiple parties each hold part of a decryption key)
 > client-side scanning
     - Online Safety Act (https://www.gov.uk/government/collections/online-safety-act)
+
+
+
+
+> look for poll on public opinion regarding lawful access

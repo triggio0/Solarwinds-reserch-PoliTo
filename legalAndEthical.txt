@@ -1,0 +1,28 @@
+
+
+--------------------     Podchasov c. Russia     --------------------
+
+> European Court of Human Rights
+
+    - Article 8
+        1. Everyone has the right to respect for his private and family life, his home and his correspondence.
+        2. There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security,public safety or the economic wellbeing of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.
+
+        - "private life"
+            It is a broad and non-exhaustive concept encompassing a person’s physical and psychological integrity, personal identity, dignity, and autonomy, as well as the right to establish and develop relationships with others. It is not limited to an inner sphere of intimacy but may extend to aspects of social identity and interactions in public contexts, provided that the interference reaches a certain threshold of seriousness (ECtHR, Guide on Article 8, 2025, §§ 86–88).
+        - "correspondance"
+            1. It encompasses all forms of communication between individuals, including letters, telephone calls, and electronic communications such as emails and internet-based messaging.
+            2. It is protected, guaranteeing the confidentiality of communications irrespective of their content and may extend to professional contexts, subject to a reasonable expectation of privacy. Interference arises where communications are intercepted, monitored, or otherwise accessed by public authorities
+            (ECtHR, Guide on Article 8, 2025, §§ 300–305; see also Bărbulescu v. Romania [GC])      // TODO verity §§
+        - on legitimate aim
+            1. Survaillance represents a serious interference with the right to respect for correspondence, it must be based on a “law” that is particularly precise. The rules must be clear and detailed, as well as being both accessible and foreseeable (ECtHR, Guide on Article 8, 2025, § 659)
+            2. It is for the respondent Government to demonstrate that the interference pursued a legitimate aim When referring to a legitimate aim, the Government must demonstrate that, in acting to penalise an applicant, the domestic authorities had that legitimate aim in mind (ECtHR, Guide on Article 8, 2025, § 25)
+            3. The Court has emphasised the need for safeguards: nature, scope and duration of the possible measures, the grounds required for ordering them, the authorities competent to permit, carry out and supervise them, and the kind of remedy provided by the national law (ECtHR, Guide on Article 8, 2025, § 660)
+        
+        -  https://ks.echr.coe.int/documents/d/echr-ks/guide_art_8_eng-pdf
+
+    - overview of case
+
+        - https://hudoc.echr.coe.int/eng/#{%22itemid%22:[%22001-230854%22]}
+
+
